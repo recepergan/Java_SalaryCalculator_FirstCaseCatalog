@@ -1,0 +1,4 @@
+  /*
+  I set Employee class as BaseClass. Worker and manager as SubClass.
+  The most important feature is that the Manager can receive a salary of one thousand and above.
+   Worker one thousand and below. How to enter data to users is specified on the console screen.*/
